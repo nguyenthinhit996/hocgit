@@ -1,8 +1,17 @@
 commit c
 dsfdsf
+<<<<<<< HEAD
 1
 2
 3
 4
 56
 7
+=======
+d
+dd
+ddd
+Test thinh 111
+Test thinh 222
+Test thinh 222ssssssssssssssssssssssssssssss
+>>>>>>> b849d39c83c43731ba2f924abf8e9339f6866e4f
