@@ -1,2 +1,5 @@
-this is of new-c
-branch new-c to create conflict
+Let’s explore the differences between
+ merging and rebasing. In order to do s
+o, we need to rewind the repository back i
+n time before the first merge, and then redo
+ the same steps, but using rebasing rather than merging.
